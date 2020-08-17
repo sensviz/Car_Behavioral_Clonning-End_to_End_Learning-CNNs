@@ -1,4 +1,4 @@
-# Car_Behavioral_Clonning-End_to_End_Learning-CNNs
+# Car_Behavioral_Cloning-End_to_End_Learning-CNNs
 ## Dependencies
 
 You can install all dependencies by running one of the following commands
